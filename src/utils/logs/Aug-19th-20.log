@@ -1,0 +1,7 @@
+[0mGET //api/operations/20200816/20200819 [33m404 [0m7.923 ms - 172[0m
+[0mGET //api/operations/20200816/20200819 [33m404 [0m1.360 ms - 172[0m
+[0mGET /api/operations/20200816/20200819 [31m500 [0m552.163 ms - 61[0m
+[0mGET /api/operations/20200816/20200819 [31m500 [0m602.699 ms - 61[0m
+[0mGET /api/operations/20200816/20200819 [31m500 [0m929.440 ms - 61[0m
+[0mGET /api/operations/20200816/20200819 [0m- [0m- ms - -[0m
+[0mGET /api/operations/20200816/20200819 [32m200 [0m709.468 ms - -[0m
