@@ -1,1 +1,2 @@
-# fb-discord-api
+# nodeJSTemplate
+Node JS template with Typescript

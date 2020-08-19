@@ -1,0 +1,12 @@
+{
+    "swagger": "2.0",
+    "info":{
+        "version": "1.0.0",
+        "title": "Node JS Express Teamplate by Mathias Padula",
+        "description":"an Minimal NodeJS App with Typescript, JWT Auth, Swagger doc and other features",
+        "license":{
+            "name": "MIT",
+            "url": "https://opensource.org/licenses/MIT"
+        }
+    }
+}
