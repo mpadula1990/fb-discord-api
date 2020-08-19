@@ -1,2 +1,2 @@
-# nodeJSTemplate
-Node JS template with Typescript
+# FB DISCORD API
+FINANCIAL API FOR DISCORD BOT
